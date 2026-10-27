@@ -16,6 +16,6 @@ Contact: [kenecu@proton.me](mailto:kenecu@proton.me)
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,sklearn,fastapi,react,postgres,aws,redis,docker,kubernetes,linux,git&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,java,pytorch,sklearn,fastapi,react,mysql,postgres,aws,redis,docker,kubernetes,linux,git&perline=14" />
   </a>
 </p>
