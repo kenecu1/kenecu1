@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kenny
 
-I'm a Data Science and Engineering student at the University of Connecticut, graduating in 2027. I'm interested in machine learning, especially model evaluation and computer vision for AR, and I also love space. I previously interned at Spectrum.
+I'm a Data Science and Engineering student at the University of Connecticut, graduating in 2027. I'm interested in machine learning, especially model evaluation and computer vision for AR, software, and I also love space. I previously interned at Spectrum.
 
 ### What I'm Working On
 
