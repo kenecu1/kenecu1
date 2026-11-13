@@ -8,7 +8,7 @@ I'm a Data Science and Engineering student at the University of Connecticut, gra
 - [Job orchestration on Kubernetes](https://github.com/uconn-cse-sdp-2027-team13) runs queued jobs as containers (Synchrony senior design)
 - Research on how students learn with ChatGPT using LLM generated physics problems and Tobii eye tracking
 
-Contact: [kenecu@proton.me](mailto:kenecu@proton.me) | [LinkedIn](https://www.linkedin.com/in/kenneth-chow2)
+Contact: [kenecu@proton.me](mailto:kenecu@proton.me) 
 
 ---
 
