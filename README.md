@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kenny
 
-I'm a Data Science and Engineering student at the University of Connecticut, graduating in 2027. Right now I'm focused on AI agents and orchestration: getting several AI tools to work together in a loop that is tested, reviewed, and safe to trust. I also just like building software. I previously interned in data analytics at Spectrum.
+I'm a Data Science and Engineering student at the University of Connecticut. Right now I'm focused on AI agents and orchestration: getting several AI tools to work together in a loop that is tested, reviewed, and safe to trust. I also just like building software. I previously interned in data analytics at Spectrum.
 
 ### What I'm Working On
 
